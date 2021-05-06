@@ -23,8 +23,8 @@ Expected 2023
 
 Research 
 ======
-**LA’s Biostatistics Education Summer Training Program (LA’s BEST@USC)**
-*Anticipated Summer 2021*
+**LA’s Biostatistics Education Summer Training Program (LA’s BEST@USC)**\
+*Anticipated Summer 2021*\
 *University of Southern California, Los Angeles, CA*
 
   * Intensive six-week program consisting of formal training in biostatistics and a research project
