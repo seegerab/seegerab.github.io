@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Undergraduate Learning Assistant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "STT 231: Statistics for Scientists"
+permalink: /teaching/2014-spring-teaching-2
+venue: "Michigan State University, Lyman Briggs"
+date: 2020 and 2021
+location: "East Lansing, Michigan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Under the direction of Professor John Keane and Dr. Aklilu Zeleke, I held weekly office hours and graded assignments for STT 231: Statistics for Scientists. In addition, I modified assignments to be compatible with GradeScope - an AI assisted grading tool - to help with the transition to online learning. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
