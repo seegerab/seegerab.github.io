@@ -31,7 +31,9 @@ Research
   * **This program - originally scheduled for Summer 2020 - was cancelled due to COVID-19. I was invited to return for Summer 2021 and intend to participate.** 
 
 **Laboratory Technician – Shiu Lab**
+
 *August 2019 - August 2021*
+
 *Michigan State University, Department of Plant Biology, East Lansing, MI*
 
   * Conduct extensive statistical analysis using R to investigate relationships between genes to understand the effect of these relationships on plant fitness
