@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-**Michigan State University**, Lyman Briggs College, East Lansing, MI
+**Michigan State University**, *Lyman Briggs College, East Lansing, MI*
 December 2020
-> B.S. in Statistics and Plant Biology
-> Honors College
+> B.S. in Statistics and Plant Biology/
+> Honors College/
 > 3.9807 GPA
 
-**University of Michigan**, Ann Arbor, MI
+**University of Michigan**, *Ann Arbor, MI*
 Expected 2023
 > M.S. in Applied Statistics
 
@@ -93,18 +93,21 @@ Leadership and Engagement
 | MSU Spartan Brass	   | October 2018 – February 2019    |
 
 
-Talks
+Presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
+* University Undergraduate Research and Arts Forum. How similar are the honey bee collected pollen communities as determined by molecular versus microscopic identification? **A Seeger**, G Quinlan, R Isaacs. Michigan State University, East Lansing, MI. (April 2019)
+* University Undergraduate Research and Arts Forum. Does Conservation Reserve Program land support honey bee foraging through enhanced floral availability? **A Seeger**, G Quinlan, R Isaacs M Milbrath. Michigan State University, East Lansing, MI. (April 2018)
+
   
-Teaching
+Honors and Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+| <!-- -->    | <!-- -->    |
+| ----------- | ----------- |
+| Plant Biology Outstanding Senior Award 	     |  April 2020      |
+| Honors College Cole Scholarship	       |  April 2020  |
+| Honors College Vera M. Wallach Scholarship		  | April 2019    |
+| Alumni Distinguished Scholarship Competition Semi-Finalist Scholarship    	     | August 2017 – December 2020       |
+| Honor College STATE Scholarship	       | August 2017 – December 2020        |
+| Honors College Professorial Assistantship		  | August 2017 – April 2019    |
