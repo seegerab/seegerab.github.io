@@ -11,16 +11,13 @@ redirect_from:
 
 Education
 ======
-**Michigan State University**\
-*Lyman Briggs College*\
-*East Lansing, MI*\
+**Michigan State University**, Lyman Briggs College, East Lansing, MI\
 *December 2020*
 > B.S. in Statistics and Plant Biology\
 > Honors College\
 > 3.9807 GPA
 
-**University of Michigan**\
-*Ann Arbor, MI*\
+**University of Michigan**, Ann Arbor, MI\
 *Expected 2023*
 > M.S. in Applied Statistics
 
