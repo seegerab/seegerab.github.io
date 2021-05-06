@@ -11,14 +11,17 @@ redirect_from:
 
 Education
 ======
-**Michigan State University**, *Lyman Briggs College, East Lansing, MI*
-December 2020
-> B.S. in Statistics and Plant Biology/
-> Honors College/
+**Michigan State University**\
+*Lyman Briggs College*\
+*East Lansing, MI*\
+*December 2020*
+> B.S. in Statistics and Plant Biology\
+> Honors College\
 > 3.9807 GPA
 
-**University of Michigan**, *Ann Arbor, MI*
-Expected 2023
+**University of Michigan**\
+*Ann Arbor, MI*\
+*Expected 2023*
 > M.S. in Applied Statistics
 
 Research 
@@ -67,7 +70,7 @@ Experience
 
 **Learning Assistant**\
 *August 2019 - April 2021*\
-*Michigan State University, Lyman Briggs College, East Lansing, MI *
+*Michigan State University, Lyman Briggs College, East Lansing, MI*
 
   * Curate content and lead weekly recitations to address key concepts for an introductory calculus course, and serve as learning assistant and grader for an introductory statistics course
   * Provide support for students through patient, encouraging, and enthusiastic instruction during recitation sessions and office hours 
@@ -75,7 +78,7 @@ Experience
 
 **Supervisor**\
 *January 2019 - March 2020*\
-*Wharton Center for the Performing Arts, East Lansing, MI*
+*Wharton Center for the Performing Arts, East Lansing, MI*\
 *Previous: Student Usher, September 2017 - January 2019*
 
   * Co-manage teams of up to 34 student ushers in a venue seating 2,254 guests

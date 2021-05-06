@@ -13,6 +13,6 @@ Hi there! I’m a first year Master’s of Applied Statistics student at the Uni
 Outside of statistics, my interests include hiking, camping, reading, and gardening. I also love exploring National Parks.
 
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+# For more info
+# ------
+# More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
