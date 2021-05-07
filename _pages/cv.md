@@ -20,7 +20,6 @@ Education
 
 **University of Michigan**, Ann Arbor, MI
 Expected 2023
->>>>>>> parent of f58390a (Finish populating the CV section)
 > M.S. in Applied Statistics
 
 Research 
