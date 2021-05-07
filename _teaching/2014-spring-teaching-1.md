@@ -4,7 +4,7 @@ collection: teaching
 type: "LB 118: Calculus I"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Michigan State University, Lyman Briggs"
-date: 2019
+date: 2014-01-01
 location: "East Lansing, Michigan"
 ---
 
