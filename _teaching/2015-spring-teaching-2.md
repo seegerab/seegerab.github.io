@@ -4,7 +4,7 @@ collection: teaching
 type: "STT 231: Statistics for Scientists"
 permalink: /teaching/2014-spring-teaching-2
 venue: "Michigan State University, Lyman Briggs"
-date: 2020 and 2021
+date: 2020
 location: "East Lansing, Michigan"
 ---
 
