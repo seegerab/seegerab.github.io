@@ -11,21 +11,12 @@ redirect_from:
 
 Education
 ======
-<<<<<<< HEAD
 **Michigan State University**, Lyman Briggs College, East Lansing, MI\
 *December 2020*
 > B.S. in Statistics and Plant Biology\
 > Honors College\
 > 3.9807 GPA
 
-**University of Michigan**, Ann Arbor, MI\
-*Expected 2023*
-=======
-**Michigan State University**, Lyman Briggs College, East Lansing, MI
-December 2020
-> B.S. in Statistics and Plant Biology
-> Honors College
-> 3.9807 GPA
 
 **University of Michigan**, Ann Arbor, MI
 Expected 2023
@@ -103,19 +94,3 @@ Leadership and Engagement
 | Department of Plant Biology Diversity, Equity, and Inclusion Committee            | December 2018 – May 2019        |
 | MSU Spartan Brass	   | October 2018 – February 2019    |
 
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
